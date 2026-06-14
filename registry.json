@@ -21,11 +21,10 @@
           "latest": "0.4.0",
           "parts": [
             "https://github.com/whitephoenixrobotics/PhoenixNest-Modules/releases/download/ai-flow-gpu-v0.4.0/ai-flow-gpu-0.4.0.zip.000",
-            "https://github.com/whitephoenixrobotics/PhoenixNest-Modules/releases/download/ai-flow-gpu-v0.4.0/ai-flow-gpu-0.4.0.zip.001",
-            "https://github.com/whitephoenixrobotics/PhoenixNest-Modules/releases/download/ai-flow-gpu-v0.4.0/ai-flow-gpu-0.4.0.zip.002"
+            "https://github.com/whitephoenixrobotics/PhoenixNest-Modules/releases/download/ai-flow-gpu-v0.4.0/ai-flow-gpu-0.4.0.zip.001"
           ],
-          "sha256": "772bdd6fe496c0c92c2fefd775daa9001aa4dea448c0b1b92148570640199c07",
-          "size": 5897451520
+          "sha256": "f88efd05dea1ba4da75a4fb933e94ac88324ba291cc0e9372d44a03ba5bca5a4",
+          "size": 2989481319
         }
       }
     },
