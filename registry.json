@@ -7,6 +7,9 @@
       "icon": "🤖",
       "description": "Visual AI task automation — node editor, execution engine, AI/ML blocks",
       "type": "service",
+      "runtimeEnv": {
+        "SUPABASE_URL": "https://hdvyywbwotgbeyapoknd.supabase.co"
+      },
       "editions": {
         "gpu": {
           "latest": "0.4.0",
