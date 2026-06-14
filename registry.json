@@ -11,6 +11,15 @@
         "SUPABASE_URL": "https://hdvyywbwotgbeyapoknd.supabase.co"
       },
       "editions": {
+        "cpu": {
+          "latest": "0.4.0",
+          "parts": [
+            "https://github.com/whitephoenixrobotics/PhoenixNest-Modules/releases/download/ai-flow-cpu-v0.4.0/ai-flow-cpu-0.4.0.zip.000",
+            "https://github.com/whitephoenixrobotics/PhoenixNest-Modules/releases/download/ai-flow-cpu-v0.4.0/ai-flow-cpu-0.4.0.zip.001"
+          ],
+          "sha256": "7dfea1daaa61f8f1686507460eca3c05a36657167d9faffa14caad8287f1e544",
+          "size": 2363187200
+        },
         "gpu": {
           "latest": "0.4.0",
           "parts": [
