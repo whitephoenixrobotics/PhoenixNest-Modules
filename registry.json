@@ -44,18 +44,6 @@
       "available": true
     },
     {
-      "id": "demo",
-      "name": "Demo Module",
-      "icon": "📦",
-      "description": "ทดสอบเครื่องจักรติดตั้งของ PhoenixNest (download → extract → run)",
-      "type": "static",
-      "latest": "1.0.0",
-      "url": "https://github.com/whitephoenixrobotics/PhoenixNest-Modules/releases/download/demo-v1.0.0/demo-1.0.0.zip",
-      "sha256": "ae7842b90db381acb076402bbdcaa4a6bc61120c3936c7e48a45a2053a87d19b",
-      "size": 1354,
-      "available": true
-    },
-    {
       "id": "circuit",
       "name": "Circuit",
       "icon": "🔌",
