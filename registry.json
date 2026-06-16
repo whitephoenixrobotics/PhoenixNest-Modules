@@ -29,6 +29,18 @@
       }
     },
     {
+      "id": "python",
+      "name": "PhoenixPy",
+      "icon": "🐍",
+      "description": "Local Python IDE — notebook, editor, terminal, and AI assistant",
+      "type": "service",
+      "latest": "0.1.0",
+      "url": "https://github.com/whitephoenixrobotics/PhoenixNest-Modules/releases/download/python-v0.1.0/phoenixpy-0.1.0.zip",
+      "sha256": "df93d6b79022e4e65558a52c56feca88bdb8f080cb8e15424d506eb48d3c8951",
+      "size": 183124473,
+      "available": true
+    },
+    {
       "id": "demo",
       "name": "Demo Module",
       "icon": "📦",
