@@ -1,5 +1,8 @@
 {
   "schemaVersion": 1,
+  "hub": {
+    "latest": "0.1.0"
+  },
   "modules": [
     {
       "id": "ai-flow",
