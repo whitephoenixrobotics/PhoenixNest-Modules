@@ -6,7 +6,7 @@
   "modules": [
     {
       "id": "ai-flow",
-      "name": "AI Flow",
+      "name": "PhoenixFlow",
       "icon": "🤖",
       "description": "Visual AI task automation — node editor, execution engine, AI/ML blocks",
       "type": "service",
