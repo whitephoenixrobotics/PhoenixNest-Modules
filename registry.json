@@ -15,10 +15,10 @@
       },
       "editions": {
         "cpu": {
-          "latest": "0.4.1",
-          "url": "https://github.com/whitephoenixrobotics/PhoenixNest-Modules/releases/download/ai-flow-cpu-v0.4.1/ai-flow-cpu-0.4.1.zip",
-          "sha256": "b1464b8e0f2d9e1405b947203778283888f2c7c147b38802405a49e54357e6f2",
-          "size": 639661940
+          "latest": "0.4.2",
+          "url": "https://github.com/whitephoenixrobotics/PhoenixNest-Modules/releases/download/ai-flow-cpu-v0.4.2/ai-flow-cpu-0.4.2.zip",
+          "sha256": "1c59b6f1666c922180d82e3c67751e5de9498a6f5c14c36a3541ac626291d655",
+          "size": 692353429
         },
         "gpu": {
           "latest": "0.4.1",
