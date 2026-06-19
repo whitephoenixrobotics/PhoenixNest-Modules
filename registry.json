@@ -21,13 +21,13 @@
           "size": 692353429
         },
         "gpu": {
-          "latest": "0.4.1",
+          "latest": "0.4.2",
           "parts": [
-            "https://github.com/whitephoenixrobotics/PhoenixNest-Modules/releases/download/ai-flow-gpu-v0.4.1/ai-flow-gpu-0.4.1.zip.000",
-            "https://github.com/whitephoenixrobotics/PhoenixNest-Modules/releases/download/ai-flow-gpu-v0.4.1/ai-flow-gpu-0.4.1.zip.001"
+            "https://github.com/whitephoenixrobotics/PhoenixNest-Modules/releases/download/ai-flow-gpu-v0.4.2/ai-flow-gpu-0.4.2.zip.000",
+            "https://github.com/whitephoenixrobotics/PhoenixNest-Modules/releases/download/ai-flow-gpu-v0.4.2/ai-flow-gpu-0.4.2.zip.001"
           ],
-          "sha256": "53cecc9540c457e311ae4c254d953f928f74b076f414135fd4430f483f7d65d9",
-          "size": 2983789926
+          "sha256": "5ad743083d8084730b9266a6f9c6204515fe73beafc169d4b37374a2f41e5add",
+          "size": 3037564686
         }
       }
     },
